@@ -1,0 +1,8 @@
+A proposition is a priori if it can be known or can be justified independently of experience.
+E.g. “Triangles have three sides”: we need not consult triangles to know this.
+A proposition is a posteriori if it can be justified only based on experience of its objects.
+E.g. “The triangle I drew is red”: we need to have perception or some other means of experience (e.g. testimony) of the triangle to know whether it is indeed red.
+A proposition is analytic, if it is true based on the mere interrelations of its concepts, i.e. based on their meaning alone.
+E.g. “Bachelors are unmarried”: this is true based on the very meaning of the concept bachelor, for it means an unmarried man.
+A proposition is synthetic, if it is made true only by something outside its mere concepts, i.e. by the objects of the concepts.
+E.g. “Bachelors are jovial”: this is not true based on the meaning of bachelor alone
